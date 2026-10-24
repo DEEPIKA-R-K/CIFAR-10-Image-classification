@@ -17,7 +17,6 @@ The CIFAR-10 dataset contains 60,000 color images of size 32 × 32 pixels, divid
 - Test dataset: 10,000 images
 
 The images are normalized before being passed to the model.
-```
 
 ## Training Setup
 
@@ -75,7 +74,7 @@ Global average pooling reduces the feature maps before classification. The final
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/DEEPIKA-R-K/CIFAR-10-Image-classification.git
 cd cifar10_tensorflow_project
 ```
 
